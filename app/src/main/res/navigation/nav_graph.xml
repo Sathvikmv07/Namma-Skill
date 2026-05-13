@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.nammaskill.app.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_home_to_detail"
+            app:destination="@id/courseDetailFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+        <action
+            android:id="@+id/action_home_to_apply"
+            app:destination="@id/applyBottomSheet" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.nammaskill.app.ui.map.MapFragment"
+        android:label="Map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/navigation_stories"
+        android:name="com.nammaskill.app.ui.stories.StoriesFragment"
+        android:label="Stories"
+        tools:layout="@layout/fragment_stories" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.nammaskill.app.ui.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/courseDetailFragment"
+        android:name="com.nammaskill.app.ui.detail.CourseDetailFragment"
+        android:label="Course Detail"
+        tools:layout="@layout/fragment_course_detail">
+        <argument
+            android:name="courseId"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_detail_to_apply"
+            app:destination="@id/applyBottomSheet" />
+    </fragment>
+
+    <dialog
+        android:id="@+id/applyBottomSheet"
+        android:name="com.nammaskill.app.ui.apply.ApplyBottomSheet"
+        android:label="Apply"
+        tools:layout="@layout/fragment_apply_bottom_sheet">
+        <argument
+            android:name="courseId"
+            app:argType="string" />
+        <argument
+            android:name="courseName"
+            app:argType="string" />
+    </dialog>
+
+</navigation>

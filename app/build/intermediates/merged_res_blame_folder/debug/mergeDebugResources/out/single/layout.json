@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/dialog_edit_profile.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_stories.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_onboarding_page3.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_onboarding_page3.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/activity_splash.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_profile.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_map.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_course_detail.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_course_detail.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/item_shimmer_course.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_shimmer_course.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_onboarding_page2.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_onboarding_page2.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/item_course.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_course.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/activity_onboarding.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_apply_bottom_sheet.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_apply_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/activity_main.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/fragment_home.xml",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/item_story.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_story.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_home.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/fragment_onboarding_page1.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_onboarding_page1.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-mergeDebugResources-62:/layout/item_application.xml",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_application.xml"
+    }
+]

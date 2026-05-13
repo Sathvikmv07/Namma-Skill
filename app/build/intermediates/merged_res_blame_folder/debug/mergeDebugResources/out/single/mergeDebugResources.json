@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_activity_onboarding.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_apply_bottom_sheet.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_apply_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_share.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_shimmer_bg.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/shimmer_bg.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_mobile_repair.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_mobile_repair.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_salary_chip_bg.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/salary_chip_bg.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_item_application.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_application.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_electrician.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_electrician.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_sewing.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_sewing.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_item_course.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_course.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_bottom_sheet_handle.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/bottom_sheet_handle.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_trade_icon_bg.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/trade_icon_bg.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/menu_detail_menu.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/menu/detail_menu.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_apply.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_apply.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_item_story.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_story.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_course_detail.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_course_detail.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_onboarding_page2.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_onboarding_page2.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_tab_indicator_selected.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/tab_indicator_selected.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_profile.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_tab_selector.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/anim_slide_in_left.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/navigation_nav_graph.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_stories.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_stories.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/color_chip_text_state_list.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/color/chip_text_state_list.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/anim_slide_out_left.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_badge_rounded.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/badge_rounded.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_home.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_onboarding_page3.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_onboarding_page3.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_plumbing.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_plumbing.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_arrow_back.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_tab_indicator_default.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/tab_indicator_default.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_my_location.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_coding.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_coding.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_avatar_bg.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/avatar_bg.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_onboarding_page1.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_onboarding_page1.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_item_shimmer_course.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/item_shimmer_course.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_arrow_down.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_eye.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_home.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_carpentry.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_carpentry.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_activity_main.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_map.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/mipmap_ic_launcher.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_trade_chip_bg_light.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/trade_chip_bg_light.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_avatar_bg_small.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/avatar_bg_small.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_trade_default.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_trade_default.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_activity_splash.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_stories.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_tab_selector.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/anim_slide_out_right.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_stats_gradient.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/stats_gradient.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/mipmap_ic_launcher_round.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_welding.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_welding.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/anim_slide_in_right.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_dialog_edit_profile.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/layout_fragment_map.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_app_logo.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_profile.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_ic_notification.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_splash_gradient.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/splash_gradient.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/color_chip_state_list.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/color/chip_state_list.xml"
+    },
+    {
+        "merged": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-debug-63:/drawable_spinner_bg.xml.flat",
+        "source": "/Users/sathvikmvijay/.gradle/daemon/9.0.0/com.nammaskill.app-main-65:/drawable/spinner_bg.xml"
+    }
+]

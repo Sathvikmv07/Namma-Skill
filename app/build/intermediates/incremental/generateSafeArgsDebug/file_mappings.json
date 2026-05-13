@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.nammaskill.app.ui.home.HomeFragmentDirections","com.nammaskill.app.ui.detail.CourseDetailFragmentDirections","com.nammaskill.app.ui.detail.CourseDetailFragmentArgs","com.nammaskill.app.ui.apply.ApplyBottomSheetArgs"]}]
